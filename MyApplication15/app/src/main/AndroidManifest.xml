@@ -9,8 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
-        <activity android:name="com.wlsj2021.MainActivity"></activity>
-        <activity android:name=".MainActivity">
+6        <activity android:name="com.wlsj2021.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
